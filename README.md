@@ -12,7 +12,7 @@
 转换成输入: input = ["Paxar", "Corp", "said", "it", "has", "acquired", "Thermo-Print"]
 再用CRF模型predict得到结果: output = ["N", "N", "I", "I", "I", "I", "N"]
 
-#下载
+# 下载
 git clone 或 download 本repository 
 
 # module安装
